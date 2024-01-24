@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 public class ChatClient {
-    private static final String SERVER_ADDRESS = "localhost";
+    private static final String SERVER_ADDRESS = "chatonline-pgiq.onrender.com";
     private static final int PORT = 12345;
 
     public static void main(String[] args) {
